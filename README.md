@@ -17,7 +17,11 @@
   <img align="center" alt="Jhonatan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jhonatan-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="Jhonatan-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Jhonatan-Drupal" height="30" width="40" src="https://icongr.am/devicon/drupal-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="Jhonatan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Jhonatan-MySql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
+  <img align="center" alt="Jhonatan-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" />
           
 </div>
   
