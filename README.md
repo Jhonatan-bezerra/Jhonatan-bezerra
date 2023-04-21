@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jhonatan Bezerra 👋
   
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com front-end e back-end
 - 📫 Contate-me no email: jhonbezerra99@gmail.com
 - 👨‍💻 Portfólio: https://jhonatan-bezerra.github.io/Portfolio/
 
